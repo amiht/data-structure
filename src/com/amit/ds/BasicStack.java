@@ -50,7 +50,9 @@ public class BasicStack<X> {
 	
 	public static void main(String[] args) {
 		
-	System.out.println("Test");
+	System.out.println("Basic Stack.");
+	
+	System.out.println("Testing successful");
 		
 	}
 
