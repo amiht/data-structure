@@ -23,7 +23,12 @@
 hs_err_pid*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .DS_Store
+=======
+
+bin/
+>>>>>>> develop
 =======
 
 bin/
